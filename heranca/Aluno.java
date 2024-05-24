@@ -1,3 +1,3 @@
-public class Aluno extends Pessoa{
-    private int ra;
+public class Aluno extends Pessoa {
+  private int ra;
 }
